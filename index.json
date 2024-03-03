@@ -3607,34 +3607,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.4/vtx/ZRE Zeus VTX.txt",
-      "hash": "6fd93edb82e8e31e4089e38aeedd8f5656374820fb28d7751ea218d9fec3fbcc",
-      "title": "HDZero VTXs",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "HDzero",
-        "divimath",
-        "SA 2.1",
-        "digital",
-        "whoop",
-        "whoop lite",
-        "race v1",
-        "race v2",
-        "freestyle",
-        "tx5m.1",
-        "MSP VTX"
-      ],
-      "author": "sugarK",
-      "force_options_review": true,
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.5/filters/basic_no_rpm_clean.txt",
       "hash": "f71b9e5414b9386dcf4750d5fdbde6a6aa0329a15709a2b87b12c2524cd6d70e",
       "title": "4.5 Filter settings for CLEAN build WITH NO RPM FILTERING.",
