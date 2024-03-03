@@ -155,7 +155,6 @@
       "Alex Vanover",
       "antonig",
       "AyyyKayyy - Anthony Knight",
-      "benlumley",
       "Betaflight",
       "BMSThomas",
       "Botgrinder",
@@ -164,22 +163,18 @@
       "Directory",
       "Evan Turner (Headsup)",
       "Feisar",
-      "Foxeer Harvey",
       "FPVian",
       "Garban",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
-      "jappyjan",
       "Joshua Bardwell",
       "Justice - Gary Kent",
-      "Jye Smith",
       "KMfpv",
       "LeadFingers",
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
       "Neil Marek (Grower)",
-      "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
       "RemoFPV",
       "Sartor",
@@ -189,7 +184,6 @@
       "sugarK",
       "SupaflyFPV",
       "UAV Tech (Mark Spatz)",
-      "Utka v tapkah",
       "ZoeFPV"
     ],
     "keywords": [
@@ -206,11 +200,9 @@
       "1ms",
       "1S",
       "2.5in",
-      "2.5W",
       "2022",
       "2023",
       "20ms",
-      "2500mW",
       "250Hz",
       "2in",
       "2ms",
@@ -253,8 +245,6 @@
       "Acrobaix",
       "actual",
       "adjustments",
-      "air unit",
-      "akk",
       "AlexFPV",
       "analog",
       "antonig",
@@ -264,7 +254,6 @@
       "Audio TBS",
       "AutoSelect",
       "aux",
-      "Avatar",
       "AyyyKayyy",
       "bando",
       "bardwell",
@@ -297,30 +286,23 @@
       "DDC",
       "default",
       "defaults",
-      "diatone",
       "Digipick",
       "digital",
       "disable",
-      "displayport",
       "divimath",
       "DJI",
-      "dominator",
       "DShot telemetry",
       "eachine",
       "ELRS",
       "emax",
-      "EVO",
       "expert",
       "express",
-      "Extreme",
       "feisar",
       "filter",
       "filtering",
       "filters",
       "five33",
-      "Foxeer",
       "fport",
-      "fpv.wtf",
       "FPVCycle",
       "FPVCycle TP3",
       "fpvian",
@@ -331,7 +313,6 @@
       "freesytle",
       "freetyle",
       "frsky",
-      "fx2",
       "Garban",
       "geprc",
       "ghost",
@@ -353,7 +334,6 @@
       "ImpulseRC",
       "IRC",
       "IRC Tramp",
-      "jhemcu",
       "juicy",
       "justice",
       "karate",
@@ -371,7 +351,6 @@
       "logging",
       "Long Range",
       "loRanger",
-      "mamba",
       "Marek",
       "mck",
       "meteor",
@@ -382,9 +361,7 @@
       "mouse fpv",
       "mr nice",
       "mrnice",
-      "msp",
       "MSP VTX",
-      "msp-osd",
       "Multi",
       "MultiGP",
       "MultiVoltage",
@@ -399,15 +376,11 @@
       "normal",
       "Omni",
       "OpenRacer",
-      "OpenVTx",
       "OSD",
-      "panda",
-      "pandarc",
       "partial",
       "Passthrough",
       "pid",
       "PIDtoolbox",
-      "pro32",
       "profile",
       "Pure Race",
       "quaddiction",
@@ -438,8 +411,6 @@
       "russia",
       "Rx",
       "sa",
-      "SA 2.0",
-      "SA 2.0 lite",
       "SA 2.1",
       "sa2.0",
       "sa20",
@@ -458,7 +429,6 @@
       "some",
       "Spec",
       "spec racing",
-      "speedybee",
       "stats",
       "StingersSwarm",
       "Street",
@@ -492,12 +462,7 @@
       "Tune",
       "twig",
       "tx5m.1",
-      "tx800",
-      "ultra",
-      "ultra 1000",
       "ultralite",
-      "unify",
-      "unify pro",
       "upside down",
       "utility",
       "vanover",
@@ -506,19 +471,14 @@
       "very noisy",
       "viper",
       "viper lite",
-      "vista",
       "Voltage",
-      "vt5804",
-      "vt5804bat",
       "vtx",
       "vtx table",
       "vtxtable",
-      "Walksnail",
       "whoop",
       "whoop lite",
       "whooptopia",
       "world champion",
-      "wtfos",
       "youtube",
       "zoe",
       "zoeFPV"
@@ -3292,50 +3252,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.3/vtx/AKK_FX2_Dominator_2W.txt",
-      "hash": "668b8c5df4c2a57411c2d854f23536f165fde2a43f103da65fc4cc2ce06af4c5",
-      "title": "AKK FX2-Dominator VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "akk",
-        "dominator",
-        "fx2"
-      ],
-      "author": "Sartor",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Avatar_HD.txt",
-      "hash": "9f8ff52bf17a04377528e7b00c50a7aff735ef1d171d31233890f927e1708d48",
-      "title": "Avatar HD VTXs",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "Avatar",
-        "Walksnail",
-        "digital",
-        "whoop"
-      ],
-      "author": "jappyjan",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/defaults.txt",
       "hash": "d8bb4a7a15e3059ecd843607204ba9d1833c989044a175fe357d94d99417abb8",
       "title": "Default 4.3 VTX settings",
@@ -3374,54 +3290,6 @@
         "vtxtable"
       ],
       "author": "Betaflight",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "a5fd094a30b8c7e44d88fc5acc61743b0c77d2bdeef7957adb30ad6e1e686a8e",
-      "title": "Diatone Mamba Ultra 1000 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "diatone",
-        "mamba",
-        "ultra",
-        "ultra 1000"
-      ],
-      "author": "NemesisXB",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/DJI_FPV-WTF_MSP-OSD.txt",
-      "hash": "635b5a733474d1c064627dabbe5a23b57937b53becc6dfaa0f5f2a96c6aaf8e7",
-      "title": "FPV.WTF MSP-OSD",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "dji",
-        "vista",
-        "air unit",
-        "fpv.wtf",
-        "wtfos",
-        "msp-osd",
-        "displayport",
-        "msp"
-      ],
-      "author": "benlumley",
       "priority": 1000000
     },
     {
@@ -3490,33 +3358,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/Foxeer_Reaper_Extreme.txt",
-      "hash": "ea84d479e6d744f03ccc0cdb3a4b4b03e35415ef8880e1f5b24ca378dbcfe148",
-      "title": "Foxeer 5.8G Reaper Extreme 2.5W",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "IRC",
-        "tramp",
-        "HV",
-        "nano",
-        "Foxeer",
-        "Extreme",
-        "2.5W",
-        "2500mW"
-      ],
-      "author": "Foxeer Harvey",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/GepRC_RAD_2W5.txt",
       "hash": "b1a6a50293fc783923d23ff80be2ae4b1b88c52a34e8a14daee1fbae343e944e",
       "title": "GEPRC RAD 5.8G 2.5W VTX Table",
@@ -3568,69 +3409,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/JHEMCU_1W6.txt",
-      "hash": "ea840755a8651d4808e84cc8864db7f55c0808bcc2af30d11de8257b40293b9d",
-      "title": "JHEMCU RuiBet Tran-3016W VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "jhemcu"
-      ],
-      "author": "Utka v tapkah",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/JHEMCU_2W5.txt",
-      "hash": "be370374c3169f03695a868f7c008c969d9d7c1bdfd13333544cbf4c3fd9e54b",
-      "title": "JHEMCU 5.8G 2.5W VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "jhemcu"
-      ],
-      "author": "Sartor",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/JHEMCU_VTX30-800.txt",
-      "hash": "8deb1ba7f7a5243d5898baead0b1f02b48beef71e3303243395f251d2abba440",
-      "title": "JHEMCU VTX30-800 5.8GHZ 800MW VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "jhemcu"
-      ],
-      "author": "Utka v tapkah",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/NanoHawk.txt",
       "hash": "d600660e4a5113714735bc5fe1fdbd6675781051034a0e58e5a550699ef6d39c",
       "title": "Emax NanoHawk 1S SmartAudio 2.0 VTX table",
@@ -3652,54 +3430,6 @@
         "sa2.0"
       ],
       "author": "Sjoer van der Ploeg",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/OpenVTx.txt",
-      "hash": "9fe7fe73f5323eaf0b1a346b0db9152d1ec65655a583a7aff0f7914946c330a0",
-      "title": "OpenVTx",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "OpenVTx",
-        "TRAMP",
-        "SA 2.1",
-        "MSP"
-      ],
-      "author": "Jye Smith",
-      "force_options_review": true,
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/PandaRC_VT5804_BAT_2W5.txt",
-      "hash": "5e6fc8b65b8e595a86de5d12e227252848e2c6d1281de6aad2aa852affc3ed00",
-      "title": "PandaRc VT5804 BAT VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "panda",
-        "pandarc",
-        "vt5804",
-        "vt5804bat"
-      ],
-      "author": "Sartor",
       "priority": 1000000
     },
     {
@@ -3728,27 +3458,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/speedybee_tx800.txt",
-      "hash": "bd9c34506239894537ee31a0904d4af46894595c3dc79c47ae2e80ee466f6d0e",
-      "title": "SpeedyBee TX800 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "speedybee",
-        "tx800"
-      ],
-      "author": "NemesisXB",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
       "hash": "64eb806abbaa6f5398595524be9d512a3ccf77679b930c06081532ee703c5e4b",
       "title": "IRC Tramp Nano and HV",
@@ -3767,171 +3476,6 @@
         "tramp",
         "HV",
         "nano"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_EVO_5G8_HV_SA.txt",
-      "hash": "643028c250e8738a5f6a53eecc92d9fa66c3789dd9ec7cf4fdfd000f8c6d1caf",
-      "title": "TBS Unify EVO 5G8 (HV) - SA 2.1",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify",
-        "pro32",
-        "HV",
-        "SA 2.1",
-        "EVO"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_Pro32_HV_SA2_1.txt",
-      "hash": "acd71d0d8f3983c55d3237e4af16ead53cd02a58a86edb1fa0d239b4aef8a345",
-      "title": "TBS Unify Pro32 HV SA 2.1",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify",
-        "pro32",
-        "HV",
-        "SA 2.1"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_Pro32_Nano_SA2_1.txt",
-      "hash": "60b3ac338951fab38a41e004ebbc7e61c2f1e82d9b44d845fc893b2898df7d3a",
-      "title": "TBS Unify Pro32 Nano - SA 2.1",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify",
-        "pro32",
-        "nano",
-        "SA 2.1"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_Pro_HV_800mw_Unify_Pro_V3_SA_2_0.txt",
-      "hash": "a4f967663db86bcf6f36ff6be13635661ea5036b7a90f4eabe030cc6a13b4e2f",
-      "title": "TBS Unify Pro HV 800mw / TBS Unify Pro V3 (5v) SA 2.0",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify pro",
-        "HV",
-        "SA 2.0"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_Pro_HV_Race_Not_Race_V2_SA2_0.txt",
-      "hash": "d30cf465ac0a9aabddea6ba9946ffa62e4425a81e95357c7989c080453b831d6",
-      "title": "TBS Unify Pro HV Race (Not Race V2) SA 2.0",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify pro",
-        "HV",
-        "SA 2.0"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_Pro_HV_Race_V2 _SA2_1.txt",
-      "hash": "bbf08e3b40d308c57453e96eefd6913c4f70c8c6ebad9b9d47be2c854e52cb92",
-      "title": "TBS Unify Pro HV Race (Not Race V2) - SA 2.0",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify pro",
-        "HV",
-        "SA 2.0"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/Unify_Pro_Nano_SA2_0_lite.txt",
-      "hash": "ca77370bae4ab65f31b4ae1a1424dea5a073ac9ac739809dc2f1dbb96cf80f6b",
-      "title": "TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "tbs",
-        "unify pro",
-        "HV",
-        "SA 2.0 lite"
       ],
       "author": "sugarK",
       "priority": 1000000
